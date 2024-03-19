@@ -2,6 +2,8 @@
 
 This repository contains a project for real-time face recognition using OpenCV and deep learning techniques. The system is capable of comparing faces from two images to determine if they belong to the same person, leveraging the power of Convolutional Neural Networks (CNN) for efficient and accurate face recognition.
 
+[![Picture1.png](https://i.postimg.cc/4dDbkQf9/Picture1.png)](https://postimg.cc/qhGC2nCJ)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -78,6 +80,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README provides a comprehensive guide to setting up, using, and contributing to your face recognition project. It outlines the necessary steps for initial setup, details the project's dependencies, and explains how to use the system. Additionally, it offers a brief overview of the project's approach and navigates the repository's file structure.
